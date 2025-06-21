@@ -1,5 +1,0 @@
-hello.f
-ferron 0.0.1p
-  extern printf
-  printf "hello world\n"
-  exit 0
