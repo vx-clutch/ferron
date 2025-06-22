@@ -1,0 +1,3 @@
+exit.f 00
+  .main
+    exit 0
